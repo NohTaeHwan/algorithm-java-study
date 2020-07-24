@@ -21,4 +21,5 @@
 - [1로 만들기 (백준 1463)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/BaekJoon1463.md)
 - [1,2,3 더하기 (백준 9095)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/BaekJoon9095.md)
 - [RGB 거리 (백준 1149)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/BaekJoon1149.md)
+- [정수 삼각형 (백준 1932)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/BaekJoon1932.md)
 
