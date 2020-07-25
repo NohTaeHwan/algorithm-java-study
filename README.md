@@ -2,6 +2,7 @@
 
 - [그리디](#그리디)
 - [동적 프로그래밍(dynamic programming)](#동적-프로그래밍)
+- [너비 우선 탐색(BFS)](#bfs)
 
 
 
@@ -22,4 +23,8 @@
 - [1,2,3 더하기 (백준 9095)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/BaekJoon9095.md)
 - [RGB 거리 (백준 1149)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/BaekJoon1149.md)
 - [정수 삼각형 (백준 1932)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/BaekJoon1932.md)
+
+### BFS
+
+- [양치기 꿍 (백준 3187)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/bfs/BaekJoon3187.md)
 
