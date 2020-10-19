@@ -30,6 +30,7 @@
 
 - [양치기 꿍 (백준 3187)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/bfs/bj3187.md)
 - [특정 거리의 도시 찾기 (백준 18352)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/bfs/bj18352.md)
+- [nhn pretest 1차 행렬문제](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/bfs/nhn-pretest(bfs).md)
 
 ### Summer/Winter Coding
 
