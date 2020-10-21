@@ -3,7 +3,7 @@
 - [그리디](#그리디)
 - [동적 프로그래밍(dynamic programming)](#동적-프로그래밍)
 - [너비 우선 탐색(BFS)](#bfs)
-- [Summer/Winter Coding](#summerwinter-coding)
+- [프로그래머스](#programmers)
 
 
 
@@ -31,7 +31,9 @@
 - [양치기 꿍 (백준 3187)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/bfs/bj3187.md)
 - [특정 거리의 도시 찾기 (백준 18352)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/bfs/bj18352.md)
 
-### Summer/Winter Coding
+### Programmers
 
-- [소수 만들기(programmers)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-2/prime-number.md)
+- ##### level 2
+  - [소수 만들기](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-2/prime-number.md)
+  - [프린터](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-2/printer.md)
 
