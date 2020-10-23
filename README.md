@@ -36,4 +36,4 @@
 - ##### level 2
   - [소수 만들기](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-2/prime-number.md)
   - [프린터](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-2/printer.md)
-
+  - [주식 가격](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-2/stock-price.md)
