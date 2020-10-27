@@ -37,6 +37,8 @@
 ### Brute-force
 
 - [블랙잭 (백준 2798)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/brute-force/bj2798.md)
+- [분해합 (백준 2231)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/brute-force/bj2231.md)
+- [덩치 (백준 7568)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/brute-force/bj7568.md)
 
 
 
