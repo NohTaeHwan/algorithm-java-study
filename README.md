@@ -27,6 +27,8 @@
 - [RGB 거리 (백준 1149)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/bj1149.md)
 - [정수 삼각형 (백준 1932)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/bj1932.md)
 - [이친수 (백준 2193)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/bj2193.md)
+- [01타일 (백준 1904)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/bj1904.md)
+- [파도반 수열 (백준 9461)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/dp/bj9461.md)
 
 ### BFS
 
