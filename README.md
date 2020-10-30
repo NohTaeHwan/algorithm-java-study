@@ -59,3 +59,4 @@
 
 - [level 1](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/sql/level1.md)
 
+- [level 2](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/sql/level2.md)
