@@ -15,6 +15,7 @@
 - [거스름돈 (백준 5585)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/greedy/bj5585.md)
 - [ATM (백준 11399)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/greedy/bj11399.md)
 - [문자열 (백준 1120)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/greedy/bj1120.md)
+- [회의실 배정 (백준 1931)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/greedy/bj1931.md)
 
 ### 동적 프로그래밍
 
