@@ -16,6 +16,7 @@
 - [ATM (백준 11399)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/greedy/bj11399.md)
 - [문자열 (백준 1120)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/greedy/bj1120.md)
 - [회의실 배정 (백준 1931)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/greedy/bj1931.md)
+- [잃어버린 괄호 (백준 1541)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/greedy/bj1541.md)
 
 ### 동적 프로그래밍
 
