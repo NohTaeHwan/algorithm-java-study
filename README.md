@@ -37,6 +37,7 @@
 
 - [양치기 꿍 (백준 3187)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/bfs/bj3187.md)
 - [특정 거리의 도시 찾기 (백준 18352)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/bfs/bj18352.md)
+- [DFS와 BFS (백준 1260)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/bfs/bj1260.md)
 
 
 
@@ -46,6 +47,7 @@
 - [분해합 (백준 2231)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/brute-force/bj2231.md)
 - [덩치 (백준 7568)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/brute-force/bj7568.md)
 - [체스판 다시 칠하기 (백준 1018)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/brute-force/bj1018.md)
+- [영화감독 숌 (백준 1436)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/brute-force/bj1436.md)
 
 
 
