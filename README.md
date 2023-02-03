@@ -59,6 +59,7 @@
   - [폰켓몬](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/ponkemon.md)
   - [크기가 작은 부분문자열](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/small-substring.md)
   - [가장 가까운 같은 글자](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/nearest-word.md)
+  - [명예의 전당(1)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/honor-score.md)
 
 - ##### level 2
 
