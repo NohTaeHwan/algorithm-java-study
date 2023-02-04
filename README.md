@@ -61,6 +61,7 @@
   - [가장 가까운 같은 글자](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/nearest-word.md)
   - [명예의 전당(1)](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/honor-score.md)
   - [푸드 파이트 대회](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/food-fight.md)
+    - [기사단원의 무기](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/knight-weapon.md)
 
 - ##### level 2
 
