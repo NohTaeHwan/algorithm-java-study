@@ -64,6 +64,7 @@
   - [기사단원의 무기](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/knight-weapon.md)
   - [삼총사](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/three-guys.md)
   - [신규 아이디 추천](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/new-id.md)
+  - [로또의 최고 순위와 최저 순위](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/lotto.md)
 
 - ##### level 2
 
