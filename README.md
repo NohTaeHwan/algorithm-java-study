@@ -65,6 +65,7 @@
   - [삼총사](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/three-guys.md)
   - [신규 아이디 추천](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/new-id.md)
   - [로또의 최고 순위와 최저 순위](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/lotto.md)
+  - [숫자 문자열과 영단어](https://github.com/NohTaeHwan/algorithm-java-work/blob/master/programmers/level-1/digit-string.md)
 
 - ##### level 2
 
